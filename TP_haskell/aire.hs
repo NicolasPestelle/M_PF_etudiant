@@ -1,0 +1,3 @@
+
+main = aireDisque
+aireDisque = do
